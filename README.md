@@ -17,7 +17,7 @@ The code is based on PyTorch implementation, and tested on the following environ
 ```
 
 ### 2. Setup ###
-We recommend using Miniconda to set up the environment. 
+We recommend using ```Miniconda``` to set up the environment. 
 
 #### 2.1 Create conda environment #### 
 ```
@@ -33,7 +33,7 @@ We recommend using Miniconda to set up the environment.
 ```
 
 
-If you want the torch version match the pytorch3d version, please use "conda list" to check the corresponding Version, and then re-setup the torch, such as
+If you want the torch version match the pytorch3d version, please use ```conda list``` to check the corresponding Version, and then re-setup the torch, such as
 ```
 - pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
 ```
@@ -50,7 +50,27 @@ Finally, setup other libraries:
 - python test_OAR.py
 ```
 
- The deformed point clouds are save in the subdirectory "save_deformed" of the directory "data" .
+ The deformed point clouds are save in the subdirectory ```save_deformed``` of the directory ```data``` .
+ 
+
+## Contact 
+If you have any problem, please contact us via <migyangz@gmail.com>. We greatly appreciate everyone's feedback and insights. Please do not hesitate to get in touch!
+
+## Citation
+Please give a citation of our work if you find it useful:
+
+```bibtex
+@inproceedings{zhao2025clustereg,
+  title={Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy},
+  author={Mingyang Zhao, Gaofeng Meng, Dong-Ming Yan},
+  booktitle={International Conference on Learning Representations},
+  year={2025}
+}
+```
+
+## License
+OAReg is under AGPL-3.0, so any downstream solution and products (including cloud services) that include OAReg code inside it should be open-sourced to comply with the AGPL conditions. For learning purposes only and not for commercial use. If you want to use it for commercial purposes, please contact us first.
+
 
 
 
