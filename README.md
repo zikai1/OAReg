@@ -14,6 +14,7 @@
 ### [Project Page](https://zikai1.github.io/pub/CluReg/index.html) | [Paper](https://arxiv.org/abs/2406.18817) | [Poster](https://zikai1.github.io/slides/CVPR24_Creg_poster.pdf)
 This repository contains the official implementation of our ICLR 2025 paper "Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy". 
 
+**Towards Non-rigid or Deformable Registration of Point Clouds and Surfaces**
 
 **Please give a star if you find this repo useful 🤡**
 
