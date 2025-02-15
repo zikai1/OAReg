@@ -10,7 +10,7 @@
     <a target="_blank" href="https://sites.google.com/site/yandongming/"><strong>Dong-Ming Yan</strong></a>
   </p>
 
-![](./fig/ICLR_Teaser.jpg)
+![](./fig/ICLR_Teaser.png)
 ### [Project Page](https://zikai1.github.io/pub/CluReg/index.html) | [Paper](https://arxiv.org/abs/2406.18817) | [Poster](https://zikai1.github.io/slides/CVPR24_Creg_poster.pdf)
 This repository contains the official implementation of our ICLR 2025 paper "Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy". 
 
