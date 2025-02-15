@@ -79,6 +79,9 @@ Please give a citation of our work if you find it useful:
   year={2025}
 }
 ```
+## Acknowledgements
+Our work is inspired by several outstanding prior works, including [DPF](https://github.com/sergeyprokudin/dpf), [NSFP](https://github.com/Lilac-Lee/Neural_Scene_Flow_Prior), [NDP](https://github.com/rabbityl/DeformationPyramid), and others. We would like to acknowledge and express our deep appreciation to the authors of these remarkable contributions
+
 
 ## License
 OAReg is under AGPL-3.0, so any downstream solution and products (including cloud services) that include OAReg code inside it should be open-sourced to comply with the AGPL conditions. For learning purposes only and not for commercial use. If you want to use it for commercial purposes, please contact us first.
