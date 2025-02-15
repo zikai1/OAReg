@@ -80,7 +80,7 @@ Please give a citation of our work if you find it useful:
 }
 ```
 ## Acknowledgements
-Our work is inspired by several outstanding prior works, including [DPF](https://github.com/sergeyprokudin/dpf), [NSFP](https://github.com/Lilac-Lee/Neural_Scene_Flow_Prior), [NDP](https://github.com/rabbityl/DeformationPyramid), and others. We would like to acknowledge and express our deep appreciation to the authors of these remarkable contributions
+Our work is inspired by several outstanding prior works, including [DPF](https://github.com/sergeyprokudin/dpf), [NSFP](https://github.com/Lilac-Lee/Neural_Scene_Flow_Prior), [NDP](https://github.com/rabbityl/DeformationPyramid), and others. We would like to acknowledge and express our deep appreciation to the authors of these remarkable contributions.
 
 
 ## License
