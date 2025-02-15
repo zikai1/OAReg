@@ -72,7 +72,7 @@ If you have any problem, please contact us via <migyangz@gmail.com>. We greatly 
 Please give a citation of our work if you find it useful:
 
 ```bibtex
-@inproceedings{zhao2025clustereg,
+@inproceedings{zhao2025oareg,
   title={Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy},
   author={Mingyang Zhao, Gaofeng Meng, Dong-Ming Yan},
   booktitle={International Conference on Learning Representations},
