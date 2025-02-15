@@ -1,10 +1,21 @@
-# OAReg (ICLR 2025)
+<p align="center">
+  <p align="center">
+    <h1 align="center">OAReg (ICLR 2025)</h1>
+  </p>
+  <p align="center" style="font-size:16px">
+    <a target="_blank" href="https://zikai1.github.io/"><strong>Mingyang Zhao</strong></a>
+    ·
+    <a target="_blank" href="https://scholar.google.com/citations?user=5hti_r0AAAAJ"><strong>Gaofeng Meng</strong></a>
+   ·
+    <a target="_blank" href="https://sites.google.com/site/yandongming/"><strong>Dong-Ming Yan</strong></a>
+  </p>
 
-### Towards Non-rigid or Deformable Registration of Point Clouds and Surfaces
+![](./fig/ICLR_Teaser.jpg)
+### [Project Page](https://zikai1.github.io/pub/CluReg/index.html) | [Paper](https://arxiv.org/abs/2406.18817) | [Poster](https://zikai1.github.io/slides/CVPR24_Creg_poster.pdf)
+This repository contains the official implementation of our ICLR 2025 paper "Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy". 
 
-This is an official code for the paper "Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy" (ICLR 2025).
 
-**Please give a star if you find this repo useful.**
+**Please give a star if you find this repo useful 🤡**
 
 
 ## Implementation
