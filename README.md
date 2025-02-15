@@ -1,15 +1,21 @@
-# OAReg
+# OAReg (ICLR 2025)
 
-#### Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy, ICLR 2025####
+### Towards Non-rigid or Deformable Registration of Point Clouds and Surfaces
+
+This is an official code for the paper "Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy" (ICLR 2025).
+
+**Please give a star if you find this repo useful.**
 
 
-#### 1. Prerequisites ####
-
+# Instructions
+1. Prerequisites
 This code is based on PyTorch implementation, and tested on the following environment dependencies:
 
+'''
 Linux (tested on Ubuntu 22.04.1)
 Python 3.9.19
 torch=='1.12.1+cu113'
+'''
 
 
 
